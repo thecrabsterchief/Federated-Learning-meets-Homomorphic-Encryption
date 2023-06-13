@@ -1,0 +1,5 @@
+/home/wh0am1/Desktop/Github/Federated-Learning-meets-Homomorphic-Encryption/openfhe-lib/build/CMakeFiles/key_generation.dir
+/home/wh0am1/Desktop/Github/Federated-Learning-meets-Homomorphic-Encryption/openfhe-lib/build/CMakeFiles/client.dir
+/home/wh0am1/Desktop/Github/Federated-Learning-meets-Homomorphic-Encryption/openfhe-lib/build/CMakeFiles/server.dir
+/home/wh0am1/Desktop/Github/Federated-Learning-meets-Homomorphic-Encryption/openfhe-lib/build/CMakeFiles/edit_cache.dir
+/home/wh0am1/Desktop/Github/Federated-Learning-meets-Homomorphic-Encryption/openfhe-lib/build/CMakeFiles/rebuild_cache.dir
