@@ -17,7 +17,7 @@ This project proposes a privacy-preserving federated learning algorithm for medi
 
 ## Proposed solution
 
-### How to solve decentralized data in Machine learning challenge?
+### How to solve decentralized data challenge in machine learning?
 
 Federated learning (also known as collaborative learning) is a machine learning technique that trains an algorithm via multiple independent sessions, each using its own dataset. This approach stands in contrast to traditional centralized machine learning techniques where local datasets are merged into one training session, as well as to approaches that assume that local data samples are identically distributed
 
@@ -29,7 +29,7 @@ Federated learning (also known as collaborative learning) is a machine learning 
 
 We use homomorphic encryption scheme that will enable cloud computing perform federated-learning algorithm on encrypted local models value with public key provided by hospitals to produce encrypted global model. And only the hospital, who have the private key that can decrypt and extract the final global model.
 
-To more detail, you can see [here](https://research.ibm.com/blog/federated-learning-homomorphic-encryption)
+For more detail, you can see [here](https://research.ibm.com/blog/federated-learning-homomorphic-encryption)
 
 <p align='center'>
     <img src='images/federated_learning_meets_homomorphic.webp'>
