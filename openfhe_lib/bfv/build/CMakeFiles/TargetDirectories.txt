@@ -1,0 +1,5 @@
+/tmp/Federated-Learning-meets-Homomorphic-Encryption/openfhe_lib/bfv/build/CMakeFiles/key_generation.dir
+/tmp/Federated-Learning-meets-Homomorphic-Encryption/openfhe_lib/bfv/build/CMakeFiles/client.dir
+/tmp/Federated-Learning-meets-Homomorphic-Encryption/openfhe_lib/bfv/build/CMakeFiles/server.dir
+/tmp/Federated-Learning-meets-Homomorphic-Encryption/openfhe_lib/bfv/build/CMakeFiles/edit_cache.dir
+/tmp/Federated-Learning-meets-Homomorphic-Encryption/openfhe_lib/bfv/build/CMakeFiles/rebuild_cache.dir
